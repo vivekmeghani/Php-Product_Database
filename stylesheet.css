@@ -1,0 +1,40 @@
+body{
+
+background-color:powderblue;
+}
+
+.maindiv{
+	border:solid 3px white;
+	height:400px;
+	width:350px;
+	transform:translate(-50%,-50%);
+	position:absolute;
+	top:50%;
+	left:50%;	
+	padding:10px;
+}
+.subdiv{
+	border:solid 2px black;
+	width:98%;
+	height:150px;	
+	
+}
+.data{
+	border:solid 2px black;
+	width:98%;
+	margin-top:25px;
+	height:195px;
+	
+}
+table{
+	background-color:lightblue;
+	letter-spacing:1px;
+	padding:4px;
+	margin:5px;
+	border:none;
+	border:solid 2px white;
+	height:186px;
+}
+td{
+	text-align:center;
+}
